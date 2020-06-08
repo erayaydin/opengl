@@ -1,0 +1,6 @@
+[submodule "Libraries/Glad"]
+	path = Libraries/Glad
+	url = git@github.com:Dav1dde/glad.git
+[submodule "Libraries/Glfw"]
+	path = Libraries/Glfw
+	url = git@github.com:glfw/glfw.git
